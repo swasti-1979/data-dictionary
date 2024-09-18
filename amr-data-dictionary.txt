@@ -1,0 +1,16 @@
+AMR data
+
+100,000 rows of 12 variables
+
+Added this to see if Git works
+
+
+These data represent the sort of data that might be obtained from the 2nd generation surveillance system.
+
+id Integer still is not committing
+
+Still not working how do i commit
+
+id Integer - A unique identified for each person
+dob Character - a string giving the date of birth
+
